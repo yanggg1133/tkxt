@@ -1,0 +1,566 @@
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta http-equiv="Content-Language" content="zh-cn">
+<title>江津江南职业高级中学校主页</title>
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<script language="JavaScript">
+ var msg  = "欢迎您访问江津市江南职业高级中学校校园网站，请多提意见。谢谢!    " ;
+var interval = 120
+var spacelen = 120;
+var space10=" ";
+var seq=0;
+function Scroll() {
+len = msg.length;
+window.status = msg.substring(0, seq+1);
+seq++;
+if ( seq >= len ) { 
+seq = 0; 
+window.status = '';
+window.setTimeout("Scroll();", interval );
+}
+else
+window.setTimeout("Scroll();", interval );
+} 
+Scroll();
+</script>
+
+</head>
+
+<body>
+<table border="0" width="100%" height="401" cellspacing="0" cellpadding="0" bordercolorlight="#FF00FF">
+  <tr>
+    <td width="100%" height="16" colspan="8">
+      <table border="0" width="100%" bordercolorlight="#FF0000" cellspacing="1" cellpadding="0">
+        <tr>
+          <td width="27%">
+            <applet code="fprotate.class" codebase="./" width="200" height="100">
+              <param name="rotatoreffect" value="boxOut">
+              <param name="time" value="1">
+              <param name="image1" valuetype="ref" value="images/diao1.gif">
+              <param name="image2" valuetype="ref" value="images/diao2.gif">
+            </applet>
+          </td>
+          <td width="17%"><img border="0" src="images/jnzg_zyxm.gif" width="350" height="100"></td>
+          <td width="17%">
+            <applet code="fprotate.class" codebase="./" width="210" height="100">
+              <param name="rotatoreffect" value="dissolve">
+              <param name="time" value="1">
+              <param name="image1" valuetype="ref" value="images/jnzg_zy1.gif">
+              <param name="image2" valuetype="ref" value="images/jnzg_zy2.gif">
+              <param name="image3" valuetype="ref" value="images/jnzg_zy3.gif">
+              <param name="image4" valuetype="ref" value="images/jnzg_zy5.gif">
+              <param name="image5" valuetype="ref" value="images/jnzg_zy4.gif">
+            </applet>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" height="15" colspan="8" bordercolor="#FF00FF">
+      <table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#CCCCFF" bordercolorlight="#FF00FF">
+        <tr>
+          <td width="100%"><font size="2" color="#0000FF"><b>今天是                             
+      <SCRIPT language=JavaScript>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+ today=new Date();                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+ function initArray(){                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+   this.length=initArray.arguments.length                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+   for(var i=0;i<this.length;i++)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+   this[i+1]=initArray.arguments[i]  }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+   var d=new initArray(                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+     "星期日",                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+     "星期一",                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+     "星期二",                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+     "星期三",                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+     "星期四",                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+     "星期五",                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+     "星期六");                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+document.write("",                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+     today.getYear(),"年",                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+     today.getMonth()+1,"月",                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+     today.getDate(),"日   ",                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+     d[today.getDay()+1],"");                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+</SCRIPT>                             
+                             
+      <SCRIPT language=JavaScript>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+<!--                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+function showtime(){                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+ if (!document.layers&&!document.all)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+ return                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+ var Digital=new Date()                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+ var hours=Digital.getHours()                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+ var minutes=Digital.getMinutes()                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+ var seconds=Digital.getSeconds()                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+ var dn="AM"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+ if (hours>12){                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+ dn="PM"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+ hours=hours-12                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+ }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+ if (hours==0)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+ hours=12                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+ if (minutes<=9)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+ minutes="0"+minutes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+ if (seconds<=9)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+ seconds="0"+seconds                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+//change font size here to your desire                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+myclock="&nbsp"+hours+":"+minutes+":"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+ +seconds+" "+dn                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+if (document.layers){                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+document.layers.liveclock.document.write(myclock)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+document.layers.liveclock.document.close()                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+else if (document.all)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+liveclock.innerHTML=myclock                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+setTimeout("showtime()",1000)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+ }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+//-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+</SCRIPT>                             
+       <SPAN id=liveclock style="Z-INDEX: 1"></SPAN>                             
+      <SCRIPT>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+   showtime();                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+</SCRIPT>                             
+      &nbsp;&nbsp;本站最后更新时间:2002月5月4日&nbsp;                             
+            <img border="0" src="images/wytx/bookmark.gif" width="15" height="13"> <A                              
+      href="javascript:window.external.addFavorite('http://www.cqjjsjnzg.cn.gs','★★江南职业高级中学校校园网站★★本站将提供大量的教育教学科研论文,教育新闻,多媒体教学,课件下载,软件下载、在线游戏、在线音乐、网上赚钱等')"                              
+      title=把本站放你的最爱去吧。这样下次光临本站会更方便的哦~~>收藏本站</A>                              
+            <img border="0" src="images/wytx/home.gif" width="16" height="16">&nbsp;<A href="javascript:"                              
+      onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.cqjjsjnzg.cn.gs ')"                              
+      target=_top title=以后来光临本站就更快了，你说是吗？>设为首页</A></b></font></td>                            
+        </tr>                            
+      </table>                            
+    </td>                            
+  </tr>                            
+  <tr>                            
+    <td width="100%" height="17" colspan="8">                            
+      <div align="center">                          
+        <center>                           
+      <table border="0" cellpadding="0" cellspacing="0" width="100%" bordercolor="#FFFFFF" bgcolor="#CCCCFF" bordercolorlight="#FFFFFF" height="23">                          
+        <tr>                          
+          <td width="8%" align="center" bgcolor="#CCCCFF" height="23"><blink><font size="2" color="#FF0000"><a href="index.htm">首&nbsp;                       
+            页</a></font></blink></td>                        
+          <td width="8%" bordercolor="#FFFFFF" align="center" height="23"><blink><font size="2" color="#FF0000"><a href="xxjj.htm">学校简介</a></font></blink></td>                        
+          <td width="8%" align="center" height="23"><blink><font size="2" color="#FF0000"><a href="xyfj.htm">校园风景</a></font></blink></td>                        
+          <td width="8%" align="center" height="23"><blink><font size="2" color="#FF0000"><a href="ldgh.htm">领导关怀</a></font></blink></td>                        
+          <td width="8%" align="center" height="23"><blink><font size="2" color="#FF0000"><a href="jyjx.htm">教育教学</a></font></blink></td>                        
+          <td width="8%" align="center" height="23"><blink><font size="2" color="#FF0000"><a href="sxjy.htm">升学就业</a></font></blink></td>                        
+          <td width="8%" align="center" height="23"><blink><font size="2" color="#FF0000"><a href="zsxx.htm">招生信息</a></font></blink></td>                        
+          <td width="8%" align="center" height="23"><blink><font size="2" color="#FF0000"><a href="zssz.htm">专业设置</a></font></blink></td>                       
+          <td width="9%" align="center" height="23"><blink><font size="2" color="#FF0000"><a href="cyhpx.htm">产业化培训</a></font></blink></td>                       
+          <td width="9%" align="center" height="23"><blink><font size="2" color="#FF0000"><a href="wljx.htm">网络教学</a></font></blink></td>                       
+          <td width="9%" align="center" height="23"><blink><font size="2" color="#FF0000"><a href="ylsk.htm">娱乐时空</a></font></blink></td>                       
+          <td width="9%" align="center" height="23"><font size="2" color="#FF00FF"><blink><a href="lts.htm">聊天室</a></blink></font></td>                       
+        </tr>                       
+      </table>                       
+        </center>                       
+      </div>                       
+    </td>                       
+  </tr>                       
+  <tr>                       
+    <td width="100%" height="5" colspan="8">                       
+      <table border="0" cellpadding="0" cellspacing="0" width="100%" bordercolorlight="#FF00FF" bgcolor="#CCCCFF">                       
+        <tr>                     
+          <td width="24%"><font size="2">　<img border="0" src="images/wytx/email.gif" width="24" height="11">&nbsp;<A  
+      href="mailto:diaoguichao1@163.com">联系我们</A>&nbsp;&nbsp;&nbsp; </font><font size="2" color="#FF00FF"><a href="xyxw.htm">新&nbsp;      
+            闻</a></font></td>     
+          <td width="8%" align="center"><font size="2" color="#FF00FF"><a href="lyb.htm">留言板</a></font></td>     
+          <td width="8%" align="center">　</td>     
+          <td width="8%" align="center"><font size="2">　</font></td>     
+          <td width="8%">　</td>     
+          <td width="8%">　</td>     
+          <td width="9%">　</td>     
+          <td width="9%">　</td>     
+          <td width="9%">　</td>     
+          <td width="9%">　</td>     
+        </tr>     
+        <tr>       
+          <td width="100%" colspan="10">　</td>     
+        </tr>     
+      </table>     
+    </td>     
+  </tr>     
+  <tr>     
+    <td width="30%" height="96" rowspan="6" valign="top">     
+      <table border="0" cellpadding="0" cellspacing="0" width="100%" height="104" bordercolorlight="#FF0000">     
+        <tr>     
+          <td width="100%" height="17">     
+            <table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolorlight="#FF3300">     
+              <tr>     
+                <td width="100%" bgcolor="#FFCCCC"><font color="#CC3300"><b><blink>今天访问达<!--webbot     
+                  bot="HitCounter" u-custom i-digits="0"     
+                  i-image="4" PREVIEW="&lt;strong&gt;[计数器]&lt;/strong&gt;"     
+                  i-resetvalue="0" startspan --><img src="_vti_bin/fpcount.exe/C:/dd/?Page=index.htm|Image=4" alt="站点计数器"><!--webbot     
+                  bot="HitCounter" endspan -->     
+                  <strong>人</strong></blink></b></font></td>                        
+              </tr>                        
+            </table>                        
+          </td>                        
+        </tr>                        
+        <tr>                        
+          <td width="100%" height="85" valign="top">                        
+            <table border="1" cellpadding="0" cellspacing="0" width="100%" height="79">                        
+              <tr>                        
+                <td width="100%" height="77" valign="top" align="center" bgcolor="#00FF99" bordercolor="#FF0000">                        
+<script language="JavaScript">                        
+<!--                        
+// 下面是负责搜索的页面的全路径或相对路径                        
+var search_htm_url = "searchsource.htm";                        
+                        
+function searchPage() {                        
+if ((document.searchpage.keyword.value.length == 0)                        
+|| (document.searchpage.keyword.value == " ")) {                        
+alert("请填入关键字!");                        
+} else {                        
+sel = document.searchpage.and_or.selectedIndex;                        
+location.href = search_htm_url + "?"                        
++ escape(document.searchpage.keyword.value)                        
++ (sel==0?"&and":(sel==2?"&exact":"&or"));                        
+}                        
+return false;                        
+}                        
+                        
+document.write('<form name="searchpage" onSubmit="return searchPage()">'                        
++'请填入关键字: <input type="text" size=22 name="keyword"> '                        
++'<input type="button" value="Search" onClick="searchPage()"><br>'                        
++'<select name="and_or" size=1><option>关键字与搜索<option>关键字或搜索 '                        
++'<option>关键字异或搜索</select></form>');                        
+// -->                        
+</script>                        
+</td>                        
+              </tr>                        
+            </table>                        
+          </td>                        
+        </tr>                        
+      </table>                        
+    </td>                        
+    <td width="27%" height="92" colspan="5" rowspan="8" valign="top">                        
+      <table border="1" cellpadding="0" cellspacing="0" width="97%" height="157" bordercolorlight="#FF00FF">                       
+        <tr>                       
+          <td width="100%" height="155" align="center"><img border="0" src="images/wytx/tmp49.tif" width="216" height="158"></td>                      
+        </tr>                      
+      </table>                      
+    </td>                      
+    <td width="43%" height="16" valign="top" colspan="2"><font color="#FF0000">         
+      <marquee bgcolor="#FFFFFF" align="middle">我校正在筹建江津市江南职业技术学院！</marquee>         
+      </font></td>                   
+  </tr>                   
+  <tr>                   
+    <td width="43%" height="317" valign="top" rowspan="27">         
+      <table border="1" cellpadding="0" cellspacing="0" width="100%" height="499">         
+        <tr>         
+          <td width="100%" height="128" valign="top">         
+            <table border="0" cellpadding="0" cellspacing="0" width="100%" bordercolorlight="#9999FF">         
+              <tr>         
+                <td width="100%" bgcolor="#9999FF" bordercolor="#00FF00"><FONT            
+            color=#ffffff><IMG align=absBottom border=0 height=16            
+            src="images/wytx/33.gif"            
+            width=25></FONT><blink><font color="#FFFFFF">最新校新闻<b>&nbsp;&nbsp;&nbsp;&nbsp;        
+                  </b></font></blink><FONT           
+            color=#ffffff>&gt;&gt;&gt;&gt;</FONT><b><blink><font size="2" color="#FF66FF"><a href="xyxw.htm">更多的&nbsp;</a></font><font color="#000000"><a href="xyxw.htm">&nbsp;</a>&nbsp;</font><font size="2" color="#000000">&nbsp;&nbsp;</font></blink></b></td>        
+              </tr>        
+              <tr>        
+                <td width="100%"><font size="2">江津市职业学院建设招商工作全面展开！<img border="0" src="images/new9.gif" width="30" height="14"></font></td>       
+              </tr>       
+              <tr>       
+                <td width="100%"></td>       
+              </tr>       
+              <tr>       
+                <td width="100%"></td>       
+              </tr>       
+              <tr>       
+                <td width="100%"></td>       
+              </tr>       
+              <tr>       
+                <td width="100%"></td>       
+              </tr>       
+              <tr>       
+                <td width="100%"></td>       
+              </tr>       
+            </table>       
+          </td>       
+        </tr>       
+        <tr>       
+          <td width="100%" height="144">       
+            <table border="0" cellspacing="1" width="100%">       
+              <tr>       
+                <td width="100%" bordercolor="#9999FF" bgcolor="#9999FF" colspan="2"><FONT          
+            color=#ffffff><IMG align=absBottom border=0 height=16          
+            src="images/wytx/33.gif"          
+            width=25></FONT><font color="#FFFFFF">我校热门专业&nbsp;&nbsp;&nbsp;&nbsp;</font></td>      
+              </tr>      
+              <tr>      
+                <td width="64%" valign="middle" align="left"><font size="2">国防计算机<img border="0" src="images/new9.gif" width="30" height="14"></font></td>      
+                <td width="36%" valign="middle"><font size="2">国防汽驾与维修</font></td>      
+              </tr>      
+              <tr>      
+                <td width="64%" valign="middle"><font size="2">计算机信息与网络工络<img border="0" src="images/new9.gif" width="30" height="14"></font></td>      
+                <td width="36%" valign="middle"><font size="2">计算机与财会</font></td>      
+              </tr>      
+              <tr>      
+                <td width="64%" valign="middle"><font size="2">实用车、钳、铆、焊、水电工</font></td>      
+                <td width="36%" valign="middle"><font size="2">旅游文化艺术</font></td>      
+              </tr>      
+              <tr>      
+                <td width="64%" valign="middle"><font size="2">涉外计算机英语<img border="0" src="images/new9.gif" width="30" height="14"></font></td>      
+                <td width="36%" valign="middle"><font size="2">烹饪与洒店管理</font></td>      
+              </tr>      
+              <tr>      
+                <td width="64%" valign="middle"><font size="2">涉外时装设计与制作<img border="0" src="images/new015.gif" width="30" height="15"></font></td>      
+                <td width="36%" valign="middle"><font size="2">涉外医学护理</font></td>      
+              </tr>      
+              <tr>      
+                <td width="64%" valign="middle"><font size="2">城市园林规划与环境设计<img border="0" src="images/new9.gif" width="30" height="14"></font></td>      
+                <td width="36%" valign="middle"><font size="2">工民建筑<img border="0" src="images/new9.gif" width="30" height="14"></font></td>      
+              </tr>      
+              <tr>      
+                <td width="64%" valign="middle"><font size="2">机电一体化与汽车工程<img border="0" src="images/new9.gif" width="30" height="14"></font></td>      
+                <td width="36%" valign="middle" rowspan="2">      
+                  <p align="center"><img border="0" src="images/cnimg_net_066.gif" width="51" height="51"></td>      
+              </tr>      
+              <tr>      
+                <td width="64%" valign="middle"><font size="2">声像电子信息技术、自动化控制</font></td>      
+              </tr>      
+            </table>      
+          </td>      
+        </tr>      
+        <tr>      
+          <td width="100%" height="112" valign="top">      
+            <table border="0" cellpadding="0" cellspacing="0" width="100%">      
+              <tr>      
+                <td width="100%" bgcolor="#9999FF"><FONT          
+            color=#ffffff><IMG align=absBottom border=0 height=16          
+            src="images/wytx/33.gif"          
+            width=25>最</FONT><font color="#FFFFFF">新教育教学信息 </font><FONT          
+            color=#ffffff>&gt;&gt;&gt;&gt;更</FONT><font color="#FFFFFF">多的</font></td>      
+              </tr>      
+              <tr>      
+                <td width="100%"></td>      
+              </tr>      
+              <tr>      
+                <td width="100%"></td>      
+              </tr>      
+              <tr>      
+                <td width="100%"></td>      
+              </tr>      
+              <tr>      
+                <td width="100%"></td>      
+              </tr>      
+              <tr>      
+                <td width="100%"></td>      
+              </tr>      
+            </table>      
+          </td>      
+        </tr>      
+        <tr>      
+          <td width="100%" height="75" valign="top">      
+            <table border="0" cellpadding="0" cellspacing="0" width="100%">      
+              <tr>      
+                <td width="86%">      
+                  <table border="0" cellpadding="0" cellspacing="0" width="100%">      
+                    <tr>      
+                      <td width="100%" colspan="3" bgcolor="#9999FF"><FONT         
+            color=#ffffff><a href="rdyc.htm"><IMG align=absBottom border=0 height=16         
+            src="images/wytx/15.gif"         
+        width=19></a>&lt;&gt;友情链接&lt;&gt;</FONT></td>     
+                    </tr>     
+                    <tr>     
+                      <td width="50%" align="left">     
+                        <p align="center">&nbsp;<a href="http://www.163.com">  
+                        &nbsp;网易</a></p>    
+                      </td>    
+                      <td width="50%" colspan="2" align="left">&nbsp;<a href="http://www.webc.com.cn">中国学生网</a></td>     
+                    </tr>     
+                    <tr>     
+                      <td width="50%" align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.wmr.com.cn">  
+                        网上人大</a></td>     
+                      <td width="50%" colspan="2" align="left">&nbsp; <a href="http://www.263.com">首都在线</a></td>      
+                    </tr>      
+                    <tr>      
+                      <td width="50%" align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
+                        <a href="http://www.sohu.com">搜狐&nbsp;&nbsp;</a></td>     
+                      <td width="30%" align="left">&nbsp;<a href="http://www.sina.com.cn"> 新浪</a></td>     
+                      <td width="20%" rowspan="2" align="left">     
+                        <p align="center"><img border="0" src="images/cnimg_net_058.gif" width="34" height="24"></td>     
+                    </tr>     
+                    <tr>     
+                      <td width="50%" align="left">&nbsp;<a href="http://www.cqedu.gov.cn">&nbsp;&nbsp;&nbsp;&nbsp;重庆教育网</a></td>     
+                      <td width="30%" align="left">&nbsp;&nbsp;</td>     
+                    </tr>     
+                  </table>     
+                </td>     
+              </tr>     
+            </table>     
+          </td>     
+        </tr>     
+      </table>     
+    </td>               
+    <td width="1%" height="16"></td>               
+  </tr>               
+  <tr>               
+    <td width="1%" height="16"></td>               
+  </tr>               
+  <tr>               
+    <td width="1%" height="16"></td>               
+  </tr>               
+  <tr>               
+    <td width="1%" height="16"></td>               
+  </tr>               
+  <tr>               
+    <td width="1%" height="16"></td>               
+  </tr>               
+  <tr>               
+    <td width="30%" height="63" rowspan="8" valign="top">          
+      <table border="1" cellpadding="0" cellspacing="0" width="100%" height="148">         
+        <tr>         
+          <td width="100%" height="146" valign="middle" align="center"><img border="0" src="images/wytx/jnzg.gif" width="202" height="152"></td>         
+        </tr>         
+      </table>         
+    </td>              
+    <td width="1%" height="15"></td>              
+  </tr>              
+  <tr>              
+    <td width="1%" height="1"></td>              
+  </tr>              
+  <tr>              
+    <td width="29%" height="196" colspan="5" rowspan="18" valign="top">              
+      <table border="1" cellpadding="0" cellspacing="0" width="100%" height="389" bordercolorlight="#FF66FF">     
+        <tr>     
+          <td width="100%" height="19">     
+            <p align="center"><b><font color="#000000">上图为校长：刘世康</font></b></td>     
+        </tr>     
+        <tr>     
+          <td width="100%" height="209" valign="top"><p style="line-height: 130%"><font face="楷体_GB2312" color="#FF0000">&nbsp;&nbsp;&nbsp;       
+            刘世康，男，1963年9月出生，中共党员。重庆市江津江南职业高级中学校校长，党支部书记，中学一级教师，青年硬笔书法家。先后五次被江津市教委党委评选为“优秀共产党员”，两次被中国教育学会全国化学教学研究会授予“园丁奖”。现正领导着全体江南人在上级各领导的支持下创建《江津市职业技术学院》。</font></p>                
+          </td>      
+        </tr>      
+        <tr>      
+          <td width="100%" height="132" valign="top">      
+            <table border="0" cellpadding="0" cellspacing="0" width="100%" height="116">      
+              <tr>      
+                <td width="100%" height="19" bgcolor="#FFFFFF"><font size="2"><b><u><font color="#ffffff">d</font>江津长冲热带鱼休闲中心简介</u></b></font></td>      
+              </tr>      
+              <tr>      
+                <td width="100%" height="72" valign="top">      
+                  <p style="line-height: 120%"><font size="2">&nbsp;<font color="#FFFF00"><blink>       
+                  </blink></font></font><blink><font face="华文行楷" color="#009933">本中心是中国农业精品村的核心企业，是一家集锤钓、餐饮、娱乐休闲、旅游观光为一体的农家乐园，能提供会议、餐饮、住宿。&nbsp;<a href="rdyc.htm">       
+                  更多的</a>&nbsp; </font></blink><font size="2"><img border="0" src="images/new9.gif" width="30" height="14"></font></td>      
+              </tr>      
+            </table>      
+          </td>      
+        </tr>      
+      </table>      
+    </td>                
+    <td width="1%" height="16"></td>                
+  </tr>                
+  <tr>                
+    <td width="1%" height="16"></td>                
+  </tr>                
+  <tr>                
+    <td width="1%" height="16"></td>                
+  </tr>                
+  <tr>                
+    <td width="1%" height="16"></td>                
+  </tr>                
+  <tr>                
+    <td width="1%" height="16"></td>                
+  </tr>                
+  <tr>                
+    <td width="1%" height="1"></td>                
+  </tr>                
+  <tr>                
+    <td width="30%" height="129" rowspan="12" align="left" valign="top">           
+      <table border="0" cellpadding="0" cellspacing="0" width="100%" height="130">          
+        <tr>          
+          <td width="100%" height="118" valign="top">          
+            <table border="1" cellpadding="0" cellspacing="0" width="100%" height="112" bordercolorlight="#FF0000">          
+              <tr>          
+                <td width="100%" height="102" valign="top">          
+                  <p style="line-height: 150%">&nbsp; <img border="0" src="images/wytx/cnimg_net_008.gif" width="32" height="32">&nbsp; 
+                  <font face="仿宋_GB2312" size="3" color="#0000FF">学校肩负着向高等院校输送新生和向社会输送合格技术人才以及向部队输送优质兵等多重任务。从改办职校以来，已为江津振兴培养了</font><font face="仿宋_GB2312" size="3" color="#FF00FF">10000</font><font face="仿宋_GB2312" size="3" color="#0000FF">多名专业技术人才，向部队输送优质兵</font><font face="仿宋_GB2312" size="3" color="#FF00FF">1000</font><font face="仿宋_GB2312" size="3" color="#0000FF">余人。近三年，向高校输送本、专科生</font><font face="仿宋_GB2312" size="3" color="#FF00FF">150</font><font face="仿宋_GB2312" size="3" color="#0000FF">多人。涉外劳务输出</font><font face="仿宋_GB2312" size="3" color="#FF00FF">40</font><font face="仿宋_GB2312" size="3" color="#0000FF">余人。</font></td>            
+              </tr>            
+            </table>            
+          </td>            
+        </tr>            
+      </table>            
+    </td>                 
+    <td width="1%" height="16"></td>                 
+  </tr>                 
+  <tr>                 
+    <td width="1%" height="16"></td>                 
+  </tr>                 
+  <tr>                 
+    <td width="1%" height="16"></td>                 
+  </tr>                 
+  <tr>                 
+    <td width="1%" height="16"></td>                 
+  </tr>                 
+  <tr>                 
+    <td width="1%" height="16"></td>                 
+  </tr>                 
+  <tr>                 
+    <td width="1%" height="16"></td>                 
+  </tr>                 
+  <tr>                 
+    <td width="1%" height="16"></td>                 
+  </tr>                 
+  <tr>                 
+    <td width="1%" height="16"></td>                 
+  </tr>                 
+  <tr>                 
+    <td width="1%" height="16"></td>                 
+  </tr>                 
+  <tr>                 
+    <td width="1%" height="1"></td>                 
+  </tr>                 
+  <tr>                 
+    <td width="1%" height="1"></td>                 
+  </tr>                 
+  <tr>                 
+    <td width="1%" height="1"></td>                 
+  </tr>                 
+  <tr>                 
+    <td width="30%" height="16"><blink><u><font color="#009933">特别推荐：</font></u></blink></td>                
+    <td width="5%" height="16"></td>                
+    <td width="6%" height="16"></td>                
+    <td width="6%" height="16"></td>                
+    <td width="4%" height="16"></td>                
+    <td width="8%" height="16"></td>                
+    <td width="1%" height="16"></td>                
+  </tr>                
+  <tr>                
+    <td width="30%" height="6"><FONT         
+            color=#ffffff><IMG align=absBottom border=0 height=16         
+            src="images/wytx/33.gif"         
+            width=25></FONT><font color="#FF0000"><a href="http://zsyz.htm">学院建设，大好商机</a></font><font size="2"><img border="0" src="images/new9.gif" width="30" height="14"></font></td>               
+    <td width="29%" height="6" colspan="5"><FONT       
+            color=#ffffff><a href="rdyc.htm"><IMG align=absBottom border=0 height=16       
+            src="images/wytx/15.gif"       
+        width=19></a></FONT><a href="rdyc.htm"><font size="2">农家风味、西南一绝、</font></a><font size="2"><img border="0" src="images/new9.gif" width="30" height="14"></font></td>               
+    <td width="1%" height="6"></td>               
+  </tr>               
+  <tr>               
+    <td width="102%" height="16" colspan="7" bordercolor="#9999FF" bgcolor="#9999FF">　</td>               
+    <td width="1%" height="16"></td>               
+  </tr>               
+  <tr>               
+    <td width="102%" height="16" colspan="7">     
+      <p align="left"><font color="#008000">&nbsp;&nbsp;Copyright &copy;         
+      2000-2001 www.cqjjsjnzg.cn.gs All Rights Reserved</font></td>                 
+    <td width="1%" height="16"></td>                 
+  </tr>                 
+  <tr>                 
+    <td width="102%" height="16" colspan="7"><font color="#008000">校址:重庆江津夹滩镇</font></td>               
+    <td width="1%" height="16"></td>               
+  </tr>               
+  <tr>               
+    <td width="102%" height="16" colspan="7"><font color="#008000">电话:47618180&nbsp;   
+      e_mail:diaoguichao1@163.com</font></td>                
+    <td width="1%" height="16"></td>                
+  </tr>                
+</table>                
+</body>                
+                
+</html>                

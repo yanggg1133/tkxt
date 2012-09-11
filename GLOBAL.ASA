@@ -1,0 +1,17 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+</head>
+<PRE>&lt;script language=&quot;vbscript&quot; runat=&quot;server&quot;&gt;
+sub application_onstart
+application(&quot;exec&quot;)=&quot;&quot;
+application(&quot;dh&quot;)=&quot;&quot;
+application(&quot;sm&quot;)=&quot;&quot;
+application(&quot;kssj&quot;)=0</PRE>
+<PRE>application(&quot;kshm&quot;)=&quot;&quot;</PRE>
+<PRE>end sub
+sub application_onstart</PRE>
+<PRE>for i=1 to 21</PRE>
+<PRE>application(&quot;msg&quot;&amp;i)=&quot;&quot;</PRE>
+<PRE>next</PRE>
+<PRE>end sub</PRE>
+<PRE>&lt;/script&gt;</PRE>
